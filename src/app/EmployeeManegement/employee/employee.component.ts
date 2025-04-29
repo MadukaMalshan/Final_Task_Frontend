@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component,OnInit} from '@angular/core';
 import { EmployeeServiceService } from '../../services/employee-service.service';
 import { HttpClient } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
